@@ -1,0 +1,7 @@
+The Confusion Matrix :  [[10, 6], [0, 4]]
+The Confusion Matrix in Percentage :  [[0.5, 0.3], [0.0, 0.2]]
+Overall accuracy :  0.7
+F1 :  0.7692307692307693
+Average Log Loss: 0.7910062779921779
+Proto-Agent Class accuracy :  1.0
+Proto-patient Class accuracy :  0.4
