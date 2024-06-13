@@ -29,7 +29,7 @@ We evaluate the resulting models using state-of-the-art frameworks, baselines an
 ## Getting Started
 
 In order to get started, clone the repository as follows:
-- ```git clone https://gitlab.cl.uni-heidelberg.de/peretz/formale_semantik.git --recursive```
+- ```git clone https://github.com/Shaip161/SPRL.git --recursive```
 
 Use --recursive to clone the roberta-large-mnli submodule as well.
 
